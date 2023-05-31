@@ -1,0 +1,7 @@
+Logic behind the Quiz app:
+
+1. We have to track question number.
+
+2. Function runs on clicking next button.
+
+3. We have to keep track of all the answers selected by user, to calculate the score to show on result screen.
